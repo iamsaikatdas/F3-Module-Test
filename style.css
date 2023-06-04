@@ -1,0 +1,36 @@
+.pictureOfTheDay {
+  /* border: 1px solid red; */
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+.imgs {
+  width: 100%;
+  height: 600px;
+  margin: auto;
+}
+.imgs img {
+  width: 100%;
+  height: 100%;
+}
+.pictureOfTheDay h2 {
+  margin: 20px 0;
+}
+.pictureOfTheDay p {
+  line-height: 25px;
+  text-align: justify;
+}
+
+/* searching */
+.searching h3 {
+  font-size: 30px;
+}
+.searching div {
+  margin-top: -20px;
+}
+.prev {
+  margin-top: 30px;
+}
+.previousSearch {
+  margin-top: -10px;
+}
